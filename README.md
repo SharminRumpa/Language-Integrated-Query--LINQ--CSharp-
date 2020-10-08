@@ -4,7 +4,7 @@
    * __Project Number :__ 04
    * __Project Name :__ Language-Integrated Query (LINQ) (CSharp Project)
    * __Project Description :__  
-        * Book Information    
+        * Books Information    
 
 ### Tools and Technologies:  
    * Microsoft Visual Studio 2019
